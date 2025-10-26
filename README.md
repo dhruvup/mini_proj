@@ -33,5 +33,5 @@ Key components:
 | Styling      | Tailwind CSS / any preferred UI lib   |
 | Deployment   | Vercel / Docker / Kubernetes           |
 
-## 🏗 Architecture Overview
+
 
